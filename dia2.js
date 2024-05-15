@@ -1,0 +1,1 @@
+console.log(estou no segundo dia, aprendi git 2!)
